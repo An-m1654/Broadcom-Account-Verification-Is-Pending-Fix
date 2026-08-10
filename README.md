@@ -16,5 +16,7 @@ Or you can just read it yourself it's not all that complicated.
 
 This file currently only works for this xhr link:
 https://support.broadcom.com/group/ecx/productfiles/-/productFiles/getDownloadableFiles?pageNumber=0&pageSize=50
+
 It specifically needs page 0 and page size 50.
+
 This is because I don't have any other links that I can test so I just left it like this, which is the one I can find.
