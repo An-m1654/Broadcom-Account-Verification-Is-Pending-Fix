@@ -20,3 +20,6 @@ https://support.broadcom.com/group/ecx/productfiles/-/productFiles/getDownloadab
 It specifically needs page 0 and page size 50.
 
 This is because I don't have any other links that I can test so I just left it like this, which is the one I can find.
+
+# Credits
+this random github guy who did basically all of the research. However has some less than clean code and weird function name and stuff. ([Link](https://github.com/St7530/VMware-download-helper))
